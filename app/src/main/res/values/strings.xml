@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application (2)</string>
+    <string name="Selection_words">Words</string>
+    <string-array name="wrd_char">
+        <item>Words</item>
+        <item>Chars</item>
+    </string-array>
+</resources>
